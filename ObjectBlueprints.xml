@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <objects>
     <object Name="Boiled Egg" Inherits="Snack">
-        <part Name="Render" DisplayName="boiled egg" />
+        <part Name="Render" DisplayName="boiled egg" Tile="boiled-egg.png"/>
         <part Name="Commerce" Value="0.1"/>
         <tag Name="Mods" Value="JeweledMods,PotteryMods"/>
     </object>
