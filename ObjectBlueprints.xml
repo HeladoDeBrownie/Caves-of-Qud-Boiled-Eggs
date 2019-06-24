@@ -2,11 +2,6 @@
 <objects>
     <object Name="Boiled Egg" Inherits="Snack">
         <part Name="Render" DisplayName="boiled egg" />
-    </object>
-    <object Name="Painted Boiled Egg" Inherits="Boiled Egg">
-        <part Name="ModPainted" />
-    </object>
-    <object Name="Kipper" Load="Merge">
-        <inventoryobject Blueprint="Painted Boiled Egg" />
+        <tag Name="Mods" Value="PotteryMods"/>
     </object>
 </objects>
