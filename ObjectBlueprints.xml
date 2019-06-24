@@ -2,6 +2,6 @@
 <objects>
     <object Name="Boiled Egg" Inherits="Snack">
         <part Name="Render" DisplayName="boiled egg" />
-        <tag Name="Mods" Value="PotteryMods"/>
+        <tag Name="Mods" Value="JeweledMods,PotteryMods"/>
     </object>
 </objects>
