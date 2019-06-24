@@ -1,0 +1,17 @@
+<encountertables>
+    <encountertable Name="Food 1" Load="Merge">
+        <objects>
+            <object Chance="10" Number="1d6" Blueprint="Boiled Egg"></object>
+        </objects>
+    </encountertable>
+    <encountertable Name="Food 2" Load="Merge">
+        <objects>
+            <object Chance="10" Number="2d4" Blueprint="Boiled Egg"></object>
+        </objects>
+    </encountertable>
+    <encountertable Name="Food 3" Load="Merge">
+        <objects>
+            <object Chance="10" Number="2d6+1" Blueprint="Boiled Egg"></object>
+        </objects>
+    </encountertable>
+</encountertables>
