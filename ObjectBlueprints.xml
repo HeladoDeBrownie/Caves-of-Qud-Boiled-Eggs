@@ -3,6 +3,7 @@
     <object Name="Boiled Egg" Inherits="Snack">
         <part Name="Render" DisplayName="boiled &amp;Yegg&amp;y" Tile="boiled-egg.png"/>
         <part Name="Description" Short="You know of no creature in Qud that could have produced this egg. Judging from its small size relative to anything that lives here, you suspect it was driven to extinction long ago." />
+        <part Name="Food" Satiation="Snack" IllOnEat="true" Message="Blech! It's rotten!"/>
         <part Name="Commerce" Value="0.1"/>
         <tag Name="Mods" Value="JeweledMods,PotteryMods"/>
     </object>
