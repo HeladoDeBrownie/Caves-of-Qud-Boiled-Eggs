@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <objects>
     <object Name="Boiled Egg" Inherits="Snack">
-        <part Name="Render" DisplayName="boiled egg" Tile="boiled-egg.png"/>
+        <part Name="Render" DisplayName="boiled &amp;Yegg&amp;y" Tile="boiled-egg.png"/>
         <part Name="Description" Short="You know of no creature in Qud that could have produced this egg. Judging from its small size relative to anything that lives here, you suspect it was driven to extinction long ago." />
         <part Name="Commerce" Value="0.1"/>
         <tag Name="Mods" Value="JeweledMods,PotteryMods"/>
